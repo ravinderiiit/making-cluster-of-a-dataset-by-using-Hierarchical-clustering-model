@@ -1,0 +1,2 @@
+# making-cluster-of-a-dataset-by-using-Hierarchical-clustering-model
+Dataset contain some column like customer id,gender,age,anual income and spending score. Actually mall calculating spending score of customer based on their income ,no of time they visited and much they spend in mall. Now owner of the mall want to know different type category of customer based on their income and spending score so that he can analysis the data so that he can earn more profit. Which is done by Hierarchical Clustering Algorithm.
